@@ -28,6 +28,7 @@ public class 线程池1 {
                     System.out.println(index);
                 }
             });
+
         }
     }
 }
